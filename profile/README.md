@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # OSVIVI: Open Source Volunteers Initiative for Visionary Innovation
 
 > Created July 15th 2023, by Sten Hougaard
