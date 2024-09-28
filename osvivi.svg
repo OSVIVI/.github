@@ -6,37 +6,53 @@
         <g transform="matrix(0.8,0,0,0.8,50,50)">
             <circle cx="0" cy="0" r="5"/>
         </g>
-        <g id="branch" transform="matrix(0.8,0,0,0.8,50,50)">
-            <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;stroke-linecap:round;"/>
-            <circle cx="0" cy="-30" r="5"/>
+        <g>
+            <g id="branch" transform="matrix(0.8,0,0,0.8,50,50)">
+                <g transform="matrix(1,0,0,0.838032,0,0)">
+                    <path d="M0,0L0,-44.589" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4.26px;stroke-linecap:round;"/>
+                </g>
+                <g transform="matrix(1.57131,0,0,1.57131,-78.5655,-81.9721)">
+                    <path d="M50,22.023C51.756,22.023 53.182,23.449 53.182,25.205C53.182,26.961 51.756,28.387 50,28.387C48.244,28.387 46.818,26.961 46.818,25.205C46.818,23.449 48.244,22.023 50,22.023ZM50,23.443C50.973,23.443 51.762,24.232 51.762,25.205C51.762,26.178 50.973,26.967 50,26.967C49.027,26.967 48.238,26.178 48.238,25.205C48.238,24.232 49.027,23.443 50,23.443Z"/>
+                </g>
+            </g>
+            <g id="branch1" serif:id="branch" transform="matrix(0.565685,0.565685,-0.565685,0.565685,50,50)">
+                <g transform="matrix(1,0,0,0.838032,0,0)">
+                    <path d="M0,0L0,-50.553" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4.26px;stroke-linecap:round;"/>
+                </g>
+                <g transform="matrix(1.57131,0,0,1.57131,-78.5655,-87.2503)">
+                    <path d="M50,22.023C51.756,22.023 53.182,23.449 53.182,25.205C53.182,26.961 51.756,28.387 50,28.387C48.244,28.387 46.818,26.961 46.818,25.205C46.818,23.449 48.244,22.023 50,22.023ZM50,23.443C50.973,23.443 51.762,24.232 51.762,25.205C51.762,26.178 50.973,26.967 50,26.967C49.027,26.967 48.238,26.178 48.238,25.205C48.238,24.232 49.027,23.443 50,23.443Z"/>
+                </g>
+            </g>
+            <g id="branch2" serif:id="branch" transform="matrix(0,0.8,-0.8,0,50,50)">
+                <g transform="matrix(1,0,0,0.838032,0,0)">
+                    <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4.26px;stroke-linecap:round;"/>
+                </g>
+                <g transform="matrix(1.57131,0,0,1.57131,-78.5655,-69.6048)">
+                    <path d="M50,22.023C51.756,22.023 53.182,23.449 53.182,25.205C53.182,26.961 51.756,28.387 50,28.387C48.244,28.387 46.818,26.961 46.818,25.205C46.818,23.449 48.244,22.023 50,22.023ZM50,23.443C50.973,23.443 51.762,24.232 51.762,25.205C51.762,26.178 50.973,26.967 50,26.967C49.027,26.967 48.238,26.178 48.238,25.205C48.238,24.232 49.027,23.443 50,23.443Z"/>
+                </g>
+            </g>
         </g>
-        <g id="branch1" serif:id="branch" transform="matrix(0.565685,0.565685,-0.565685,0.565685,50,50)">
-            <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;stroke-linecap:round;"/>
-            <circle cx="0" cy="-30" r="5"/>
+        <g id="branch3" serif:id="branch">
         </g>
-        <g id="branch2" serif:id="branch" transform="matrix(-3.06285e-16,0.8,-0.8,-3.06285e-16,50,50)">
-            <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;stroke-linecap:round;"/>
-            <circle cx="0" cy="-30" r="5"/>
+        <g id="branch4" serif:id="branch">
         </g>
-        <g id="branch3" serif:id="branch" transform="matrix(-0.565685,0.565685,-0.565685,-0.565685,50,50)">
-            <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;stroke-linecap:round;"/>
-            <circle cx="0" cy="-30" r="5"/>
+        <g id="branch5" serif:id="branch">
         </g>
-        <g id="branch4" serif:id="branch" transform="matrix(-0.8,-6.12571e-16,6.12571e-16,-0.8,50,50)">
-            <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;stroke-linecap:round;"/>
-            <circle cx="0" cy="-30" r="5"/>
+        <g id="branch6" serif:id="branch" transform="matrix(-1.88546e-16,-0.8,0.8,-1.88546e-16,50,49.5467)">
+            <g transform="matrix(1,0,0,0.838032,0,0)">
+                <path d="M0,0L0,-47.144" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4.26px;stroke-linecap:round;"/>
+            </g>
+            <g transform="matrix(1.57131,0,0,1.57131,-78.5655,-84.1132)">
+                <path d="M50,22.023C51.756,22.023 53.182,23.449 53.182,25.205C53.182,26.961 51.756,28.387 50,28.387C48.244,28.387 46.818,26.961 46.818,25.205C46.818,23.449 48.244,22.023 50,22.023ZM50,23.443C50.973,23.443 51.762,24.232 51.762,25.205C51.762,26.178 50.973,26.967 50,26.967C49.027,26.967 48.238,26.178 48.238,25.205C48.238,24.232 49.027,23.443 50,23.443Z"/>
+            </g>
         </g>
-        <g id="branch5" serif:id="branch" transform="matrix(-0.565685,-0.565685,0.565685,-0.565685,50,50)">
-            <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;stroke-linecap:round;"/>
-            <circle cx="0" cy="-30" r="5"/>
-        </g>
-        <g id="branch6" serif:id="branch" transform="matrix(5.63585e-16,-0.8,0.8,5.63585e-16,50,50)">
-            <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;stroke-linecap:round;"/>
-            <circle cx="0" cy="-30" r="5"/>
-        </g>
-        <g id="branch7" serif:id="branch" transform="matrix(0.565685,-0.565685,0.565685,0.565685,50,50)">
-            <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;stroke-linecap:round;"/>
-            <circle cx="0" cy="-30" r="5"/>
+        <g id="branch7" serif:id="branch" transform="matrix(0.565685,-0.565685,0.565685,0.565685,50,49.5467)">
+            <g transform="matrix(1,0,0,0.838032,0,0)">
+                <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4.26px;stroke-linecap:round;"/>
+            </g>
+            <g transform="matrix(1.57131,0,0,1.57131,-78.5655,-69.6048)">
+                <path d="M50,22.023C51.756,22.023 53.182,23.449 53.182,25.205C53.182,26.961 51.756,28.387 50,28.387C48.244,28.387 46.818,26.961 46.818,25.205C46.818,23.449 48.244,22.023 50,22.023ZM50,23.443C50.973,23.443 51.762,24.232 51.762,25.205C51.762,26.178 50.973,26.967 50,26.967C49.027,26.967 48.238,26.178 48.238,25.205C48.238,24.232 49.027,23.443 50,23.443Z"/>
+            </g>
         </g>
     </g>
     <g transform="matrix(1,0,0,1,7.80208,5.46007)">
@@ -46,5 +62,31 @@
         <rect x="47.764" y="82.277" width="2.449" height="8.121" style="fill-rule:nonzero;"/>
         <path d="M60.21,82.277L56.548,90.504L54.93,90.504L51.339,82.277L53.887,82.277L55.745,86.965L57.655,82.277L60.21,82.277Z" style="fill-rule:nonzero;"/>
         <rect x="61.335" y="82.277" width="2.449" height="8.121" style="fill-rule:nonzero;"/>
+    </g>
+    <g id="branch8" serif:id="branch" transform="matrix(-0.450011,0.450011,-0.450011,-0.450011,50,44.2973)">
+        <g transform="matrix(1.61789,-1.11022e-16,9.30402e-17,1.35584,1.77636e-14,5.68434e-14)">
+            <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:2.63px;stroke-linecap:round;"/>
+        </g>
+        <g transform="matrix(1.57131,-1.7445e-16,1.7445e-16,1.57131,-78.5501,-85.1423)">
+            <path d="M50,22.023C51.756,22.023 53.182,23.449 53.182,25.205C53.182,26.961 51.756,28.387 50,28.387C48.244,28.387 46.818,26.961 46.818,25.205C46.818,23.449 48.244,22.023 50,22.023ZM50,23.443C50.973,23.443 51.762,24.232 51.762,25.205C51.762,26.178 50.973,26.967 50,26.967C49.027,26.967 48.238,26.178 48.238,25.205C48.238,24.232 49.027,23.443 50,23.443Z"/>
+        </g>
+    </g>
+    <g>
+        <g id="branch9" serif:id="branch" transform="matrix(-0.636412,1.11022e-16,-1.11022e-16,-0.636412,50,44.2973)">
+            <g transform="matrix(1,0,0,0.838032,0,0)">
+                <path d="M0,0L0,-52.95" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4.26px;stroke-linecap:round;"/>
+            </g>
+            <g transform="matrix(1.57131,3.87358e-32,-3.87358e-32,1.57131,-78.5655,-88.979)">
+                <path d="M50,22.023C51.756,22.023 53.182,23.449 53.182,25.205C53.182,26.961 51.756,28.387 50,28.387C48.244,28.387 46.818,26.961 46.818,25.205C46.818,23.449 48.244,22.023 50,22.023ZM50,23.443C50.973,23.443 51.762,24.232 51.762,25.205C51.762,26.178 50.973,26.967 50,26.967C49.027,26.967 48.238,26.178 48.238,25.205C48.238,24.232 49.027,23.443 50,23.443Z"/>
+            </g>
+        </g>
+        <g id="branch10" serif:id="branch" transform="matrix(-0.450011,-0.450011,0.450011,-0.450011,50,44.2973)">
+            <g transform="matrix(1,0,0,0.838032,0,0)">
+                <path d="M0,0L0,-22.492" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4.26px;stroke-linecap:round;"/>
+            </g>
+            <g transform="matrix(1.57131,-8.72252e-17,8.72252e-17,1.57131,-78.5655,-63.1072)">
+                <path d="M50,22.023C51.756,22.023 53.182,23.449 53.182,25.205C53.182,26.961 51.756,28.387 50,28.387C48.244,28.387 46.818,26.961 46.818,25.205C46.818,23.449 48.244,22.023 50,22.023ZM50,23.443C50.973,23.443 51.762,24.232 51.762,25.205C51.762,26.178 50.973,26.967 50,26.967C49.027,26.967 48.238,26.178 48.238,25.205C48.238,24.232 49.027,23.443 50,23.443Z"/>
+            </g>
+        </g>
     </g>
 </svg>
