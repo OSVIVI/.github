@@ -1,17 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-    <circle cx="50" cy="50" r="48" fill="none" stroke="black" stroke-width="4"/>
-    <g transform="translate(50,50) scale(0.8)">
-        <circle cx="0" cy="0" r="5" fill="black"/>
-        <g id="branch">
-            <line x1="0" y1="0" x2="0" y2="-30" stroke="black" stroke-width="4" stroke-linecap="round"/>
-            <circle cx="0" cy="-30" r="5" fill="black"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(0.795515,0,0,0.795515,10.2243,4.52158)">
+        <circle cx="50" cy="50" r="48" style="fill:none;stroke:black;stroke-width:4px;"/>
+        <g transform="matrix(0.8,0,0,0.8,50,50)">
+            <circle cx="0" cy="0" r="5"/>
         </g>
-        <use href="#branch" transform="rotate(45)"/>
-        <use href="#branch" transform="rotate(90)"/>
-        <use href="#branch" transform="rotate(135)"/>
-        <use href="#branch" transform="rotate(180)"/>
-        <use href="#branch" transform="rotate(225)"/>
-        <use href="#branch" transform="rotate(270)"/>
-        <use href="#branch" transform="rotate(315)"/>
+        <g id="branch" transform="matrix(0.8,0,0,0.8,50,50)">
+            <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;stroke-linecap:round;"/>
+            <circle cx="0" cy="-30" r="5"/>
+        </g>
+        <g id="branch1" serif:id="branch" transform="matrix(0.565685,0.565685,-0.565685,0.565685,50,50)">
+            <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;stroke-linecap:round;"/>
+            <circle cx="0" cy="-30" r="5"/>
+        </g>
+        <g id="branch2" serif:id="branch" transform="matrix(-3.06285e-16,0.8,-0.8,-3.06285e-16,50,50)">
+            <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;stroke-linecap:round;"/>
+            <circle cx="0" cy="-30" r="5"/>
+        </g>
+        <g id="branch3" serif:id="branch" transform="matrix(-0.565685,0.565685,-0.565685,-0.565685,50,50)">
+            <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;stroke-linecap:round;"/>
+            <circle cx="0" cy="-30" r="5"/>
+        </g>
+        <g id="branch4" serif:id="branch" transform="matrix(-0.8,-6.12571e-16,6.12571e-16,-0.8,50,50)">
+            <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;stroke-linecap:round;"/>
+            <circle cx="0" cy="-30" r="5"/>
+        </g>
+        <g id="branch5" serif:id="branch" transform="matrix(-0.565685,-0.565685,0.565685,-0.565685,50,50)">
+            <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;stroke-linecap:round;"/>
+            <circle cx="0" cy="-30" r="5"/>
+        </g>
+        <g id="branch6" serif:id="branch" transform="matrix(5.63585e-16,-0.8,0.8,5.63585e-16,50,50)">
+            <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;stroke-linecap:round;"/>
+            <circle cx="0" cy="-30" r="5"/>
+        </g>
+        <g id="branch7" serif:id="branch" transform="matrix(0.565685,-0.565685,0.565685,0.565685,50,50)">
+            <path d="M0,0L0,-30" style="fill:none;fill-rule:nonzero;stroke:black;stroke-width:4px;stroke-linecap:round;"/>
+            <circle cx="0" cy="-30" r="5"/>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,7.80208,5.46007)">
+        <path d="M29.829,86.332C29.829,87.09 29.654,87.787 29.304,88.424C28.955,89.06 28.434,89.566 27.743,89.941C27.051,90.316 26.21,90.504 25.217,90.504C24.214,90.504 23.364,90.308 22.669,89.918C21.973,89.527 21.457,89.014 21.119,88.377C20.781,87.74 20.612,87.058 20.612,86.332C20.612,85.601 20.78,84.919 21.116,84.284C21.452,83.649 21.968,83.138 22.666,82.749C23.363,82.36 24.214,82.166 25.217,82.166C25.967,82.166 26.636,82.277 27.224,82.5C27.812,82.723 28.296,83.024 28.674,83.405C29.053,83.786 29.341,84.229 29.536,84.735C29.731,85.241 29.829,85.773 29.829,86.332ZM27.333,86.332C27.333,86.027 27.288,85.749 27.198,85.497C27.108,85.245 26.972,85.026 26.791,84.841C26.609,84.655 26.387,84.511 26.126,84.407C25.864,84.304 25.561,84.252 25.217,84.252C24.561,84.252 24.046,84.443 23.671,84.826C23.296,85.209 23.108,85.711 23.108,86.332C23.108,86.953 23.297,87.456 23.674,87.841C24.05,88.225 24.565,88.418 25.217,88.418C25.667,88.418 26.049,88.329 26.366,88.151C26.682,87.974 26.923,87.727 27.087,87.413C27.251,87.099 27.333,86.738 27.333,86.332Z" style="fill-rule:nonzero;"/>
+        <path d="M37.03,88.037C37.03,88.545 36.9,88.984 36.64,89.355C36.381,89.726 36.018,90.011 35.553,90.208C35.089,90.405 34.555,90.504 33.954,90.504C33.786,90.504 33.58,90.493 33.336,90.472C33.091,90.45 32.767,90.391 32.363,90.293C31.959,90.195 31.538,90.051 31.1,89.859L31.1,87.867C31.51,88.121 31.914,88.332 32.31,88.5C32.707,88.668 33.132,88.752 33.585,88.752C34.003,88.752 34.273,88.683 34.396,88.544C34.519,88.405 34.581,88.275 34.581,88.154C34.581,87.935 34.475,87.751 34.264,87.6C34.053,87.45 33.747,87.295 33.344,87.135C32.899,86.947 32.508,86.743 32.173,86.522C31.837,86.302 31.562,86.025 31.349,85.693C31.136,85.361 31.03,84.969 31.03,84.516C31.03,84.078 31.137,83.683 31.352,83.329C31.567,82.975 31.895,82.693 32.337,82.482C32.778,82.271 33.317,82.166 33.954,82.166C34.407,82.166 34.826,82.21 35.211,82.298C35.595,82.386 35.913,82.484 36.163,82.594C36.413,82.703 36.585,82.789 36.678,82.851L36.678,84.756C36.346,84.517 35.976,84.305 35.568,84.117C35.16,83.93 34.723,83.836 34.258,83.836C33.954,83.836 33.733,83.894 33.596,84.012C33.46,84.129 33.391,84.273 33.391,84.445C33.391,84.605 33.46,84.744 33.596,84.861C33.733,84.978 33.977,85.121 34.329,85.289C34.954,85.582 35.454,85.846 35.829,86.08C36.204,86.314 36.498,86.585 36.711,86.892C36.924,87.198 37.03,87.58 37.03,88.037Z" style="fill-rule:nonzero;"/>
+        <path d="M46.639,82.277L42.977,90.504L41.36,90.504L37.768,82.277L40.317,82.277L42.174,86.965L44.085,82.277L46.639,82.277Z" style="fill-rule:nonzero;"/>
+        <rect x="47.764" y="82.277" width="2.449" height="8.121" style="fill-rule:nonzero;"/>
+        <path d="M60.21,82.277L56.548,90.504L54.93,90.504L51.339,82.277L53.887,82.277L55.745,86.965L57.655,82.277L60.21,82.277Z" style="fill-rule:nonzero;"/>
+        <rect x="61.335" y="82.277" width="2.449" height="8.121" style="fill-rule:nonzero;"/>
     </g>
 </svg>
